@@ -1,0 +1,13 @@
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.exe
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.deps.json
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.json
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.dev.json
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.dll
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.pdb
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.csprojAssemblyReference.cache
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfoInputs.cache
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfo.cs
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.csproj.CoreCompileInputs.cache
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.dll
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.pdb
+D:\Usuarios\Emanuel\servidor\visual studio\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.genruntimeconfig.cache
